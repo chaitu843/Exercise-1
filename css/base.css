@@ -1,0 +1,17 @@
+body{
+	background-color: #EEECEC;
+}
+
+#container {
+	width: 400px;
+	margin: auto;
+}
+
+.inner {
+	width: 100%;
+	text-align: center;
+	border: 2px;
+	padding: 15px;
+	border-style: solid;
+	border-color: white;
+}
